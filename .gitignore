@@ -1,3 +1,10 @@
+/filename
+/cmake_install.cmake
+/CMakeFiles/*
+/Makefile
+/test
+/CMakeCache.txt
+
 # Compiled Object files
 *.slo
 *.lo
